@@ -27,7 +27,7 @@ function LandingPage() {
         </nav>
       </header>
       <div className="flex justify-between pb-10 w-[80%] m-auto">
-        <div className="p-10">
+        <div className="py-10">
           <h1 className="text-5xl font-semibold text-stone-100 pt-10 ">
             We Create Learning Experience With Excellent Teachnology
           </h1>
