@@ -1,6 +1,5 @@
 function LandingPage() {
   return (
-    // <div className="h-lvh bg-hero-pattern bg-cover from-purple-500 to-pink-500 ">
     <div
       className="bg-gradient-to-br from-blue-500 via-purple-600 to-pink-500 bg-opacity-90 bg-cover bg-center h-screen py-10"
       style={{ backgroundImage: 'url("Images/studentstudying.jpg")' }}
@@ -48,7 +47,7 @@ function LandingPage() {
             </button>
           </div>
         </div>
-        <div className="p-[60px] ">
+        <div className="p-10 ">
           <iframe
             className="border-solid rounded-2xl border-[10px]  border-violet-300"
             width="560"
